@@ -1,0 +1,8 @@
+datasets
+scikit-learn
+matplotlib
+seaborn
+spacy==3.7.2
+pydantic==1.10.12
+lime
+shap
